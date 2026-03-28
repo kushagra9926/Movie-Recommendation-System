@@ -1,0 +1,501 @@
+movie_id,title,year,genres,director,cast,runtime_min,budget_million,avg_rating,num_ratings,popularity_score
+1,Valhalla Story,1985,Animation,Quentin Tarantino,Charlize Theron|Tom Hanks|Tilda Swinton|Meryl Streep,82,29.0,4.2,15297,64.25
+2,The Shadow Chronicles,2015,Romance|Horror|Drama,Wes Anderson,Matt Damon|Robert De Niro|Leonardo DiCaprio,115,209.7,4.0,22348,89.39
+3,The Last Heart,1976,Drama,Quentin Tarantino,Emma Stone|Robert De Niro|Meryl Streep,192,161.3,4.0,24857,99.43
+4,The Frozen Empire,2006,Romance,Martin Scorsese,Scarlett Johansson|Viola Davis,95,256.7,3.4,6669,22.67
+5,Beyond the Machine,1980,Documentary|Comedy,Guillermo del Toro,Tom Hanks|Natalie Portman|Charlize Theron|Scarlett Johansson,116,139.2,4.8,17741,85.16
+6,City of Souls,2023,Comedy,Steven Spielberg,Ryan Gosling|Robert De Niro|Tom Hanks,129,274.0,3.3,37220,122.83
+7,City of Hearts,1995,Fantasy|Animation|Crime,James Cameron,Charlize Theron|Lupita Nyong'o,142,224.4,4.4,28127,123.76
+8,City of Angels,1978,Fantasy|Adventure|Sci-Fi,Steven Spielberg,Brad Pitt|Natalie Portman,183,179.3,3.7,25266,93.48
+9,The Warrior Chronicles,2019,Documentary|Adventure|Crime,Bong Joon-ho,Joaquin Phoenix|Leonardo DiCaprio,142,291.6,3.9,49985,194.94
+10,Warrior of Rome,2023,Horror|Musical|Comedy,James Cameron,Natalie Portman|Charlize Theron|Christian Bale,75,180.1,4.5,32071,144.32
+11,Broken Knight,1985,Comedy,Spike Lee,Tom Hanks|Jennifer Lawrence,92,293.4,4.7,34961,164.32
+12,The Dream Code,2005,Crime,Paul Thomas Anderson,Tilda Swinton|Morgan Freeman|Charlize Theron|Matt Damon,154,120.3,3.2,44069,141.02
+13,Atlantis Story,1977,Comedy,Martin Scorsese,Leonardo DiCaprio|Matt Damon|Charlize Theron,133,176.9,4.1,521,2.14
+14,The Silent Soul,1991,Horror,Wes Anderson,Jennifer Lawrence|Morgan Freeman|Charlize Theron,108,217.3,4.1,37473,153.64
+15,Lost in Babylon,2021,Comedy|Adventure,Quentin Tarantino,Tilda Swinton|Emma Stone|Lupita Nyong'o|Charlize Theron,194,259.3,3.1,3600,11.16
+16,Tokyo Story,2021,Comedy,David Fincher,Charlize Theron|Joaquin Phoenix,110,127.1,4.3,18304,78.71
+17,Dark Legend,1973,Horror|Thriller|Action,Martin Scorsese,Natalie Portman|Tilda Swinton,199,144.9,3.3,26332,86.9
+18,City of Worlds,1994,Western|Sci-Fi,Alfonso Cuarón,Tilda Swinton|Charlize Theron|Jennifer Lawrence,114,57.8,3.8,14317,54.4
+19,Ancient Oracle,1973,Musical,Darren Aronofsky,Christian Bale|Natalie Portman|Meryl Streep|Lupita Nyong'o,95,255.6,3.8,4540,17.25
+20,Lost in Tokyo,2006,Musical,Tim Burton,Lupita Nyong'o|Tom Hanks,182,197.6,3.9,37092,144.66
+21,The Kingdom Chronicles,1985,Drama|Animation,Denis Villeneuve,Denzel Washington|Tom Hanks|Leonardo DiCaprio,192,186.7,3.5,36946,129.31
+22,The Golden Oracle,1978,Western|Adventure,Wes Anderson,Viola Davis|Natalie Portman|Joaquin Phoenix,152,183.9,4.4,42908,188.8
+23,The Oracle Chronicles,1978,Adventure|Western,Coen Brothers,Robert De Niro|Viola Davis,128,215.6,3.0,13392,40.18
+24,Paris Story,2024,Adventure,Bong Joon-ho,Meryl Streep|Leonardo DiCaprio|Denzel Washington,108,191.5,4.2,17217,72.31
+25,Oracle of Valhalla,2005,Adventure,Martin Scorsese,Brad Pitt|Charlize Theron|Meryl Streep|Emma Stone,112,129.5,3.6,2791,10.05
+26,The Last Storm,2013,Mystery,Quentin Tarantino,Charlize Theron|Tilda Swinton|Brad Pitt,135,259.5,4.0,11653,46.61
+27,City of Shadows,2020,Sci-Fi|Mystery,Wes Anderson,Natalie Portman|Cate Blanchett|Ryan Gosling,84,257.7,4.1,14627,59.97
+28,Return to Mars,1984,Mystery,David Fincher,Denzel Washington|Robert De Niro|Tom Hanks,146,106.0,3.4,33434,113.68
+29,Beyond the Dragon,1986,Musical,Guillermo del Toro,Cate Blanchett|Tilda Swinton,163,218.8,3.9,20607,80.37
+30,Beyond the Matrix,2006,Crime,Steven Spielberg,Tilda Swinton|Leonardo DiCaprio|Christian Bale|Morgan Freeman,168,130.0,3.9,43581,169.97
+31,City of Phoenixs,2016,Horror|Crime,Bong Joon-ho,Ryan Gosling|Viola Davis|Charlize Theron,107,58.4,3.6,43626,157.05
+32,Beyond the Phoenix,1995,Thriller|Action|Crime,Denis Villeneuve,Tilda Swinton|Matt Damon,157,140.0,3.6,29027,104.5
+33,The Forgotten Empire,1979,Action,Wes Anderson,Lupita Nyong'o|Tom Hanks|Joaquin Phoenix,181,266.0,4.1,37777,154.89
+34,Return to Tokyo,1979,Romance|Action|Sci-Fi,Quentin Tarantino,Scarlett Johansson|Natalie Portman|Christian Bale,193,16.0,3.0,16381,49.14
+35,City of Machines,2012,Horror|Musical|Documentary,Alfonso Cuarón,Christian Bale|Tilda Swinton|Charlize Theron|Joaquin Phoenix,115,223.4,2.6,31158,81.01
+36,Dark Soul,2019,Fantasy|Mystery|Comedy,Guillermo del Toro,Tom Hanks|Viola Davis|Scarlett Johansson,144,101.4,3.7,35449,131.16
+37,The Hidden Dream,2014,Romance,David Fincher,Tilda Swinton|Lupita Nyong'o,159,163.2,3.9,27298,106.46
+38,Last Ghost,2024,Drama|Fantasy|Action,Greta Gerwig,Ryan Gosling|Tilda Swinton|Charlize Theron,131,147.0,4.8,17937,86.1
+39,Beyond the Shadow,2012,Sci-Fi|Drama|Romance,Ridley Scott,Brad Pitt|Charlize Theron|Leonardo DiCaprio,175,178.0,3.9,43500,169.65
+40,Golden Ghost,1981,Crime,Jordan Peele,Morgan Freeman|Joaquin Phoenix|Denzel Washington,161,228.6,3.2,24896,79.67
+41,The Last Kingdom,2000,Romance,Coen Brothers,Emma Stone|Scarlett Johansson,92,234.6,2.6,42763,111.18
+42,Lost in Eden,2012,Musical,David Fincher,Robert De Niro|Emma Stone|Natalie Portman,104,233.6,3.8,10782,40.97
+43,The Last Destiny,2006,Western|Drama|Thriller,David Fincher,Matt Damon|Scarlett Johansson,101,209.5,4.7,19814,93.13
+44,Wild Justice,1992,Drama|Mystery|Documentary,Martin Scorsese,Denzel Washington|Leonardo DiCaprio|Tilda Swinton|Jennifer Lawrence,102,130.6,3.0,23786,71.36
+45,Night of the Burning Kingdom,1999,Thriller|Romance,Spike Lee,Denzel Washington|Scarlett Johansson|Tom Hanks,146,264.6,3.6,16031,57.71
+46,The Destiny Code,1991,Fantasy,Sofia Coppola,Jennifer Lawrence|Morgan Freeman,165,239.6,4.0,22354,89.42
+47,The Legend Chronicles,2001,Sci-Fi|Comedy|Romance,Darren Aronofsky,Jennifer Lawrence|Joaquin Phoenix|Leonardo DiCaprio|Tom Hanks,150,67.3,3.5,45386,158.85
+48,Return to Brooklyn,2005,Documentary|Drama|Romance,Coen Brothers,Emma Stone|Joaquin Phoenix|Robert De Niro,153,76.2,4.4,7957,35.01
+49,Night of the Last Dragon,1982,Romance,Darren Aronofsky,Matt Damon|Christian Bale|Viola Davis,100,250.0,4.2,19464,81.75
+50,Night of the Frozen Dream,1973,Crime|Romance|Animation,Darren Aronofsky,Leonardo DiCaprio|Matt Damon,147,141.3,3.0,28916,86.75
+51,Victor's Storm,1977,Drama,Darren Aronofsky,Matt Damon|Meryl Streep,113,45.6,4.0,36936,147.74
+52,The Last Soul,2008,Sci-Fi|Musical|Comedy,Paul Thomas Anderson,Joaquin Phoenix|Lupita Nyong'o|Viola Davis,184,92.3,4.3,40749,175.22
+53,Wild Warrior,2010,Crime,Martin Scorsese,Scarlett Johansson|Natalie Portman,94,47.8,3.7,26822,99.24
+54,Dark Code,1984,Romance|Crime,Alfonso Cuarón,Scarlett Johansson|Robert De Niro,125,128.1,3.1,35738,110.79
+55,Return to Rome,1974,Animation,Denis Villeneuve,Matt Damon|Viola Davis|Joaquin Phoenix|Cate Blanchett,194,206.9,4.5,45907,206.58
+56,Dark Phoenix,2017,Musical|Crime,Christopher Nolan,Scarlett Johansson|Matt Damon,80,299.9,3.1,44108,136.73
+57,Crimson Justice,2000,Mystery|Fantasy|Crime,Ridley Scott,Tilda Swinton|Jennifer Lawrence|Tom Hanks|Matt Damon,164,123.1,3.4,21090,71.71
+58,Brooklyn Story,2014,Crime|Mystery,Jordan Peele,Meryl Streep|Joaquin Phoenix|Tom Hanks|Denzel Washington,139,97.7,4.1,26538,108.81
+59,Burning Justice,1996,Comedy,Paul Thomas Anderson,Lupita Nyong'o|Jennifer Lawrence|Joaquin Phoenix,88,61.9,4.6,36043,165.8
+60,Machine of Valhalla,1977,Mystery,Tim Burton,Natalie Portman|Viola Davis,78,166.1,4.6,6158,28.33
+61,Return to Avalon,2001,Crime|Horror|Romance,Guillermo del Toro,Jennifer Lawrence|Lupita Nyong'o|Scarlett Johansson,191,165.8,3.5,25188,88.16
+62,Return to Valhalla,1974,Sci-Fi|Western,Bong Joon-ho,Christian Bale|Robert De Niro|Leonardo DiCaprio,147,218.1,4.6,38515,177.17
+63,Lost in Paris,1992,Horror|Sci-Fi,Coen Brothers,Joaquin Phoenix|Denzel Washington|Morgan Freeman,136,172.0,3.7,15356,56.82
+64,Savage Justice,2015,Drama|Mystery,James Cameron,Meryl Streep|Brad Pitt|Christian Bale,159,261.0,3.8,28905,109.84
+65,The Burning Machine,1996,Animation|Adventure|Fantasy,Guillermo del Toro,Lupita Nyong'o|Ryan Gosling|Tom Hanks,159,255.9,3.6,35021,126.08
+66,Beyond the Code,2009,Comedy,Denis Villeneuve,Tom Hanks|Tilda Swinton,100,228.4,4.5,46180,207.81
+67,Broken Justice,1971,Documentary,Steven Spielberg,Emma Stone|Lupita Nyong'o|Tilda Swinton,112,74.0,2.5,27054,67.64
+68,Lost in Arcadia,2001,Animation|Comedy|Fantasy,Guillermo del Toro,Robert De Niro|Leonardo DiCaprio|Joaquin Phoenix,148,203.6,3.4,10403,35.37
+69,The Phantom Knight,2010,Romance|Crime,Alfonso Cuarón,Morgan Freeman|Ryan Gosling|Jennifer Lawrence,102,71.9,4.6,37531,172.64
+70,Lisa's Empire,1971,Drama|Crime|Action,Spike Lee,Meryl Streep|Jennifer Lawrence|Viola Davis|Scarlett Johansson,165,66.5,4.1,12510,51.29
+71,City of Empires,1972,Documentary|Romance|Animation,Martin Scorsese,Denzel Washington|Tilda Swinton|Natalie Portman,126,40.5,4.8,35400,169.92
+72,City of Matrixs,2023,Crime,Darren Aronofsky,Denzel Washington|Cate Blanchett|Joaquin Phoenix,94,43.1,4.4,14835,65.27
+73,Iron Justice,2020,Action|Crime,Coen Brothers,Joaquin Phoenix|Emma Stone,142,175.8,3.6,41897,150.83
+74,Alex's Soul,2009,Documentary|Musical|Comedy,Martin Scorsese,Joaquin Phoenix|Viola Davis|Tilda Swinton|Cate Blanchett,110,14.6,4.4,2488,10.95
+75,The Last Warrior,2004,Drama,Alfonso Cuarón,Charlize Theron|Tilda Swinton|Brad Pitt,181,196.8,4.5,32119,144.54
+76,Lost in Midnight,1983,Fantasy|Comedy,Greta Gerwig,Emma Stone|Charlize Theron,166,19.1,3.1,18130,56.2
+77,Midnight Story,1985,Sci-Fi,Spike Lee,Tom Hanks|Charlize Theron,128,176.3,3.6,15319,55.15
+78,Lisa's Phoenix,2024,Animation,Coen Brothers,Natalie Portman|Cate Blanchett|Leonardo DiCaprio,108,5.4,3.4,15643,53.19
+79,Hidden Ghost,2017,Fantasy,Alfonso Cuarón,Christian Bale|Matt Damon|Cate Blanchett,190,151.6,4.6,40361,185.66
+80,Burning Empire,1973,Thriller|Drama,Bong Joon-ho,Cate Blanchett|Jennifer Lawrence|Joaquin Phoenix|Tom Hanks,95,97.3,4.8,9771,46.9
+81,The Hidden Kingdom,1994,Horror|Crime|Fantasy,Paul Thomas Anderson,Tilda Swinton|Cate Blanchett|Matt Damon|Morgan Freeman,185,136.0,4.8,15024,72.12
+82,Night of the Broken Dragon,2012,Documentary|Animation,Darren Aronofsky,Tom Hanks|Lupita Nyong'o,98,130.1,3.2,48847,156.31
+83,Night of the Hollow Dream,2007,Horror|Documentary|Mystery,Quentin Tarantino,Emma Stone|Tilda Swinton|Meryl Streep,148,180.5,4.2,23095,97.0
+84,The Ancient Matrix,2012,Comedy|Thriller,Quentin Tarantino,Charlize Theron|Emma Stone|Cate Blanchett,146,172.7,4.8,28172,135.23
+85,Frozen Justice,2008,Thriller|Romance|Crime,Christopher Nolan,Robert De Niro|Viola Davis,161,106.0,3.5,11938,41.78
+86,Hidden Justice,1974,Romance,Christopher Nolan,Christian Bale|Morgan Freeman,171,126.5,4.4,22390,98.52
+87,Empire of Valhalla,2019,Musical|Adventure|Action,James Cameron,Lupita Nyong'o|Meryl Streep,95,82.4,3.1,43430,134.63
+88,The Last Matrix,1997,Crime,Spike Lee,Christian Bale|Viola Davis|Meryl Streep,131,119.2,4.1,39327,161.24
+89,Dark Heart,2019,Sci-Fi,Guillermo del Toro,Denzel Washington|Cate Blanchett|Leonardo DiCaprio,202,224.4,4.0,11564,46.26
+90,The Knight Chronicles,2017,Drama,Christopher Nolan,Tom Hanks|Denzel Washington|Tilda Swinton,178,213.1,3.9,27423,106.95
+91,The Last Angel,1980,Fantasy|Thriller|Romance,Greta Gerwig,Tilda Swinton|Cate Blanchett,137,131.3,4.2,26293,110.43
+92,The Angel Chronicles,2017,Comedy|Documentary,Ridley Scott,Christian Bale|Cate Blanchett,210,153.5,3.8,22946,87.19
+93,Maria's Soul,1986,Animation,Tim Burton,Tom Hanks|Natalie Portman,201,139.7,4.3,36994,159.07
+94,The Machine Code,2010,Animation|Fantasy,Martin Scorsese,Joaquin Phoenix|Viola Davis|Robert De Niro,89,106.2,4.1,4912,20.14
+95,The Last Machine,1993,Adventure|Mystery,Martin Scorsese,Lupita Nyong'o|Christian Bale|Ryan Gosling|Joaquin Phoenix,85,135.5,2.4,37514,90.03
+96,Olympus Story,2002,Action,Alfonso Cuarón,Denzel Washington|Tom Hanks,204,194.2,3.9,2615,10.2
+97,Return to Atlantis,1993,Western|Crime,Jordan Peele,Denzel Washington|Meryl Streep|Lupita Nyong'o,91,99.6,4.4,36616,161.11
+98,Mars Story,1991,Musical,James Cameron,Viola Davis|Ryan Gosling|Brad Pitt,96,93.6,4.3,24736,106.36
+99,Arcadia Story,2011,Drama|Horror|Documentary,Christopher Nolan,Viola Davis|Natalie Portman|Morgan Freeman,162,284.4,4.4,31918,140.44
+100,Return to Eden,1988,Horror,Coen Brothers,Christian Bale|Meryl Streep|Denzel Washington|Brad Pitt,171,47.1,4.3,11901,51.17
+101,Savage Knight,1998,Crime|Sci-Fi|Romance,Alfonso Cuarón,Charlize Theron|Scarlett Johansson,154,289.7,3.6,30787,110.83
+102,City of Knights,1999,Sci-Fi|Drama,Paul Thomas Anderson,Tilda Swinton|Natalie Portman|Morgan Freeman|Brad Pitt,139,16.6,4.3,31545,135.64
+103,Hollow Justice,1988,Sci-Fi,Ridley Scott,Joaquin Phoenix|Christian Bale|Brad Pitt,186,28.4,3.8,14601,55.48
+104,Phantom Justice,1973,Horror|Documentary,Wes Anderson,Tom Hanks|Emma Stone|Scarlett Johansson,82,96.3,4.3,6543,28.13
+105,Infinite Justice,1988,Romance|Thriller,James Cameron,Jennifer Lawrence|Joaquin Phoenix|Leonardo DiCaprio|Tom Hanks,79,77.5,4.1,9848,40.38
+106,The Matrix Chronicles,2019,Comedy|Crime,Quentin Tarantino,Scarlett Johansson|Tilda Swinton,192,19.8,4.5,32806,147.63
+107,Night of the Hidden Empire,2009,Comedy|Musical,Bong Joon-ho,Tom Hanks|Christian Bale,167,21.2,3.7,34525,127.74
+108,Beyond the Storm,1993,Romance|Action,Greta Gerwig,Emma Stone|Scarlett Johansson,101,231.7,4.0,48231,192.92
+109,The World Chronicles,2014,Mystery|Animation,James Cameron,Joaquin Phoenix|Meryl Streep,150,61.3,3.7,13122,48.55
+110,City of Dragons,2022,Fantasy|Crime|Action,David Fincher,Emma Stone|Meryl Streep|Denzel Washington,144,38.2,4.7,24168,113.59
+111,Code of Brooklyn,2021,Romance,Bong Joon-ho,Tilda Swinton|Natalie Portman,150,97.0,4.7,5297,24.9
+112,Elena's Empire,1980,Fantasy|Documentary|Western,Steven Spielberg,Emma Stone|Tilda Swinton|Robert De Niro|Meryl Streep,94,201.7,3.3,26671,88.01
+113,Maria's World,2024,Mystery|Sci-Fi|Fantasy,Steven Spielberg,Tom Hanks|Scarlett Johansson,168,109.3,3.0,37224,111.67
+114,Wild Dream,1993,Fantasy|Sci-Fi,Martin Scorsese,Brad Pitt|Christian Bale|Emma Stone|Ryan Gosling,155,195.2,3.2,16408,52.51
+115,The Dark World,2005,Crime,Guillermo del Toro,Joaquin Phoenix|Morgan Freeman|Viola Davis|Jennifer Lawrence,126,37.7,2.2,4903,10.79
+116,Dark Machine,2012,Romance|Adventure,Coen Brothers,Viola Davis|Lupita Nyong'o|Natalie Portman|Charlize Theron,167,153.1,4.5,8003,36.01
+117,Return to Babylon,1971,Horror|Musical,Greta Gerwig,Charlize Theron|Brad Pitt|Tom Hanks,91,93.5,2.2,47034,103.47
+118,Night of the Twisted Matrix,2022,Adventure|Animation|Documentary,Martin Scorsese,Joaquin Phoenix|Christian Bale|Emma Stone,107,263.5,3.1,36180,112.16
+119,Babylon Story,1997,Western|Thriller|Action,Quentin Tarantino,Brad Pitt|Viola Davis|Natalie Portman|Charlize Theron,157,280.5,3.9,14826,57.82
+120,John's Empire,1986,Mystery,Coen Brothers,Brad Pitt|Viola Davis|Charlize Theron,98,151.3,3.4,11101,37.74
+121,Ancient Justice,1975,Mystery,Spike Lee,Morgan Freeman|Matt Damon|Tilda Swinton,82,149.9,3.7,41151,152.26
+122,The Empire Chronicles,2021,Drama|Crime|Fantasy,Martin Scorsese,Meryl Streep|Natalie Portman|Joaquin Phoenix|Tilda Swinton,198,139.9,2.4,22344,53.63
+123,Lost in Rome,2016,Drama|Animation,Greta Gerwig,Charlize Theron|Cate Blanchett|Denzel Washington|Scarlett Johansson,194,37.6,4.3,29514,126.91
+124,Return to Midnight,1994,Drama|Comedy|Animation,Sofia Coppola,Denzel Washington|Morgan Freeman|Natalie Portman|Jennifer Lawrence,206,140.6,3.7,20270,75.0
+125,Eternal Code,1988,Action|Thriller|Adventure,Bong Joon-ho,Robert De Niro|Emma Stone,178,110.4,3.4,26302,89.43
+126,The Kingdom Code,1978,Drama,Greta Gerwig,Charlize Theron|Emma Stone|Brad Pitt,125,181.1,4.9,26355,129.14
+127,The Storm Chronicles,2015,Sci-Fi|Fantasy,Paul Thomas Anderson,Brad Pitt|Christian Bale|Lupita Nyong'o,158,279.5,3.4,20925,71.14
+128,Phoenix of Valhalla,2007,Horror|Thriller,Paul Thomas Anderson,Jennifer Lawrence|Matt Damon|Viola Davis|Lupita Nyong'o,79,111.1,4.8,44208,212.2
+129,The Savage Destiny,2008,Crime|Mystery,Spike Lee,Scarlett Johansson|Meryl Streep|Jennifer Lawrence|Natalie Portman,209,189.1,3.2,40665,130.13
+130,Ancient Warrior,1998,Drama|Animation,Bong Joon-ho,Morgan Freeman|Tilda Swinton|Christian Bale|Jennifer Lawrence,90,212.0,2.9,34042,98.72
+131,Return to Arcadia,2003,Documentary|Animation,Alfonso Cuarón,Denzel Washington|Charlize Theron|Emma Stone|Robert De Niro,198,58.5,4.5,16205,72.92
+132,The Last Empire,2019,Romance|Comedy,Darren Aronofsky,Jennifer Lawrence|Emma Stone|Charlize Theron,145,87.0,3.3,37633,124.19
+133,The Empire Code,2015,Documentary,Alfonso Cuarón,Robert De Niro|Jennifer Lawrence|Morgan Freeman|Charlize Theron,144,280.0,4.2,45674,191.83
+134,Return to Zion,1973,Drama,Sofia Coppola,Jennifer Lawrence|Cate Blanchett|Brad Pitt|Leonardo DiCaprio,115,122.7,4.5,31225,140.51
+135,Dark Empire,2011,Western,Martin Scorsese,Matt Damon|Scarlett Johansson|Charlize Theron|Meryl Streep,119,125.9,4.4,11570,50.91
+136,Storm of Midnight,2006,Adventure|Documentary|Crime,Alfonso Cuarón,Charlize Theron|Christian Bale|Jennifer Lawrence|Brad Pitt,204,140.9,3.5,12686,44.4
+137,The Dragon Code,2011,Romance|Animation,Christopher Nolan,Denzel Washington|Viola Davis|Morgan Freeman|Natalie Portman,178,248.3,4.0,33819,135.28
+138,John's Angel,1981,Fantasy,Sofia Coppola,Leonardo DiCaprio|Robert De Niro,173,71.4,4.1,49448,202.74
+139,Dark World,2014,Mystery,Denis Villeneuve,Lupita Nyong'o|Scarlett Johansson|Matt Damon,109,144.0,2.3,29867,68.69
+140,Night of the Wild Knight,2018,Sci-Fi|Mystery|Comedy,Wes Anderson,Lupita Nyong'o|Tom Hanks|Christian Bale|Joaquin Phoenix,210,211.4,4.0,5168,20.67
+141,City of Warriors,2006,Animation|Western|Documentary,Paul Thomas Anderson,Cate Blanchett|Morgan Freeman|Jennifer Lawrence,98,269.8,4.4,29245,128.68
+142,Dark Storm,2013,Romance|Action,Jordan Peele,Leonardo DiCaprio|Morgan Freeman|Tom Hanks,86,127.7,4.5,45950,206.78
+143,The Frozen Storm,1972,Drama|Animation,James Cameron,Tilda Swinton|Emma Stone|Ryan Gosling|Joaquin Phoenix,171,113.3,4.4,44793,197.09
+144,The Lost Oracle,2016,Thriller,Christopher Nolan,Viola Davis|Joaquin Phoenix,183,160.0,4.0,15101,60.4
+145,Lost in Zion,1976,Action|Fantasy|Musical,Steven Spielberg,Meryl Streep|Ryan Gosling,187,71.1,4.4,14288,62.87
+146,Return to Olympus,1985,Western|Animation,Paul Thomas Anderson,Tilda Swinton|Viola Davis,145,19.2,3.6,38825,139.77
+147,City of Ghosts,1973,Mystery|Western,Jordan Peele,Denzel Washington|Tilda Swinton|Matt Damon|Brad Pitt,151,113.6,4.8,49491,237.56
+148,The Soul Chronicles,1989,Animation|Sci-Fi|Fantasy,Steven Spielberg,Tilda Swinton|Lupita Nyong'o|Charlize Theron|Christian Bale,109,117.1,4.4,16761,73.75
+149,Return to Paris,1975,Romance|Thriller|Comedy,Steven Spielberg,Ryan Gosling|Meryl Streep|Tom Hanks,123,241.6,3.7,38557,142.66
+150,Night of the Frozen Heart,1991,Western|Action,David Fincher,Cate Blanchett|Jennifer Lawrence,137,209.0,3.8,46172,175.45
+151,The Angel Code,1989,Documentary|Horror,Darren Aronofsky,Cate Blanchett|Jennifer Lawrence|Denzel Washington,127,111.8,4.0,27177,108.71
+152,Ancient Soul,1971,Horror|Musical,Spike Lee,Tilda Swinton|Viola Davis|Brad Pitt|Morgan Freeman,159,69.8,4.1,37391,153.3
+153,Forgotten Justice,1986,Romance|Mystery,Darren Aronofsky,Natalie Portman|Emma Stone|Lupita Nyong'o,110,216.4,4.5,32052,144.23
+154,Storm of Atlantis,2023,Thriller,Steven Spielberg,Tilda Swinton|Brad Pitt,134,21.3,4.8,9947,47.75
+155,Last Matrix,1973,Mystery|Western|Musical,Darren Aronofsky,Jennifer Lawrence|Leonardo DiCaprio|Matt Damon|Tilda Swinton,78,6.0,3.6,47379,170.56
+156,The Warrior Code,1985,Musical,Paul Thomas Anderson,Emma Stone|Robert De Niro|Ryan Gosling,95,112.5,3.7,26659,98.64
+157,Beyond the Oracle,2010,Romance,Ridley Scott,Jennifer Lawrence|Tilda Swinton,159,170.2,3.4,6299,21.42
+158,City of Storms,2014,Fantasy|Crime|Action,Martin Scorsese,Robert De Niro|Charlize Theron|Meryl Streep|Natalie Portman,155,5.7,3.4,13626,46.33
+159,Lost in Avalon,1980,Comedy|Musical|Drama,Coen Brothers,Ryan Gosling|Brad Pitt|Tom Hanks,203,223.9,4.1,22716,93.14
+160,Broken Ghost,1991,Sci-Fi|Musical|Thriller,Jordan Peele,Leonardo DiCaprio|Robert De Niro|Joaquin Phoenix,200,69.2,3.6,36293,130.65
+161,Beyond the World,1975,Crime|Sci-Fi|Comedy,Martin Scorsese,Robert De Niro|Brad Pitt,172,213.8,3.6,41593,149.73
+162,Dragon of Brooklyn,1975,Crime,Alfonso Cuarón,Robert De Niro|Cate Blanchett|Brad Pitt,97,57.0,3.7,29465,109.02
+163,Golden Knight,2008,Sci-Fi|Documentary|Drama,Christopher Nolan,Tilda Swinton|Ryan Gosling|Tom Hanks,137,172.0,3.5,11163,39.07
+164,Eden Story,1989,Fantasy|Animation,Martin Scorsese,Tilda Swinton|Robert De Niro,182,90.6,3.2,5091,16.29
+165,Victor's Soul,2008,Comedy|Fantasy|Adventure,James Cameron,Leonardo DiCaprio|Ryan Gosling|Denzel Washington,172,241.4,4.8,21646,103.9
+166,Dark Ghost,1989,Musical|Romance,David Fincher,Denzel Washington|Natalie Portman|Ryan Gosling,156,88.1,3.5,45594,159.58
+167,Elena's Kingdom,1993,Western,Spike Lee,Matt Damon|Charlize Theron,121,204.8,4.0,36101,144.4
+168,Phantom Heart,2023,Adventure|Thriller|Sci-Fi,Bong Joon-ho,Jennifer Lawrence|Brad Pitt|Viola Davis|Scarlett Johansson,139,197.9,4.1,46923,192.38
+169,Beyond the Legend,2007,Horror|Western,Bong Joon-ho,Meryl Streep|Emma Stone|Charlize Theron|Tom Hanks,102,230.9,4.0,43146,172.58
+170,The Dark Warrior,2002,Horror|Western|Musical,Spike Lee,Joaquin Phoenix|Emma Stone,175,139.5,4.6,44585,205.09
+171,Lost in Brooklyn,2000,Crime,Bong Joon-ho,Cate Blanchett|Brad Pitt,164,94.3,3.5,29890,104.61
+172,The Matrix Code,2000,Fantasy,Alfonso Cuarón,Tom Hanks|Viola Davis|Meryl Streep,104,7.8,3.1,22533,69.85
+173,The Machine Chronicles,2010,Animation,Bong Joon-ho,Leonardo DiCaprio|Morgan Freeman|Joaquin Phoenix,184,117.3,3.9,46235,180.32
+174,Lisa's Machine,2012,Horror|Mystery,Sofia Coppola,Ryan Gosling|Lupita Nyong'o|Cate Blanchett|Emma Stone,165,253.8,3.0,40509,121.53
+175,Phoenix of Olympus,2013,Documentary,Quentin Tarantino,Viola Davis|Cate Blanchett,121,112.6,3.3,9314,30.74
+176,The Ghost Chronicles,2006,Drama|Animation,Darren Aronofsky,Charlize Theron|Natalie Portman|Lupita Nyong'o|Matt Damon,200,87.4,4.9,12311,60.32
+177,Marcus's Phoenix,1970,Animation|Comedy,Jordan Peele,Christian Bale|Jennifer Lawrence|Tilda Swinton|Matt Damon,181,213.3,4.2,29138,122.38
+178,Lost in Atlantis,2006,Crime,Coen Brothers,Charlize Theron|Meryl Streep|Joaquin Phoenix,130,296.9,3.4,6761,22.99
+179,Night of the Forgotten Empire,1998,Documentary|Thriller,Martin Scorsese,Cate Blanchett|Scarlett Johansson|Morgan Freeman,164,258.5,4.5,40044,180.2
+180,The Heart Code,2006,Horror|Crime,Tim Burton,Natalie Portman|Denzel Washington|Viola Davis|Charlize Theron,143,285.8,3.2,33762,108.04
+181,City of Dreams,1973,Thriller|Mystery,James Cameron,Brad Pitt|Scarlett Johansson|Lupita Nyong'o|Denzel Washington,138,228.7,4.4,44367,195.21
+182,Beyond the Dream,2010,Drama|Fantasy,Martin Scorsese,Tom Hanks|Ryan Gosling|Christian Bale|Robert De Niro,169,137.0,3.9,32034,124.93
+183,John's Shadow,2016,Mystery|Western,Greta Gerwig,Charlize Theron|Ryan Gosling,130,290.5,4.3,13933,59.91
+184,Dark Dragon,1991,Musical|Animation|Western,Darren Aronofsky,Meryl Streep|Lupita Nyong'o|Cate Blanchett,192,5.9,4.4,10403,45.77
+185,Dark Shadow,2014,Western,Denis Villeneuve,Robert De Niro|Tom Hanks,167,75.9,4.2,24419,102.56
+186,Night of the Forgotten Ghost,2015,Action,David Fincher,Tom Hanks|Brad Pitt|Scarlett Johansson,207,204.3,3.6,658,2.37
+187,Infinite Warrior,2014,Fantasy,Martin Scorsese,Ryan Gosling|Tom Hanks,101,31.9,3.3,24138,79.66
+188,Last Justice,2018,Musical,Jordan Peele,Tilda Swinton|Denzel Washington|Brad Pitt,138,83.8,3.9,5571,21.73
+189,Night of the Iron Empire,2020,Fantasy,Jordan Peele,Scarlett Johansson|Jennifer Lawrence,93,159.0,2.4,840,2.02
+190,Elena's Dream,1993,Mystery|Animation|Sci-Fi,Darren Aronofsky,Leonardo DiCaprio|Matt Damon,92,5.1,3.8,14188,53.91
+191,Silent Angel,2010,Horror|Sci-Fi|Drama,Bong Joon-ho,Ryan Gosling|Tom Hanks|Charlize Theron|Brad Pitt,146,26.0,3.9,5228,20.39
+192,The Dream Chronicles,1995,Mystery|Sci-Fi|Western,Martin Scorsese,Tilda Swinton|Scarlett Johansson|Meryl Streep,137,26.8,3.9,28524,111.24
+193,The Phantom Phoenix,1989,Romance|Mystery|Western,Ridley Scott,Leonardo DiCaprio|Brad Pitt,77,50.0,3.8,22771,86.53
+194,Warrior of Babylon,1991,Crime|Horror,Martin Scorsese,Matt Damon|Tom Hanks|Jennifer Lawrence,191,153.7,4.1,3683,15.1
+195,Beyond the Kingdom,2006,Adventure|Horror,Steven Spielberg,Scarlett Johansson|Christian Bale,86,286.3,3.0,4567,13.7
+196,Alex's Oracle,1993,Crime,Spike Lee,Lupita Nyong'o|Scarlett Johansson|Joaquin Phoenix,169,177.9,4.0,32382,129.53
+197,The Oracle Code,1979,Western,Bong Joon-ho,Scarlett Johansson|Charlize Theron,163,191.1,3.8,45496,172.88
+198,Eternal Justice,1996,Action|Animation,Guillermo del Toro,Meryl Streep|Scarlett Johansson,208,124.5,4.2,24461,102.74
+199,Dark Destiny,2010,Adventure|Musical,Spike Lee,Tilda Swinton|Brad Pitt,135,88.2,4.0,20694,82.78
+200,The Last Legend,2019,Adventure|Animation|Western,Ridley Scott,Joaquin Phoenix|Denzel Washington|Tilda Swinton,105,161.2,4.0,13657,54.63
+201,The Lost Empire,1983,Animation|Adventure,Wes Anderson,Ryan Gosling|Christian Bale|Meryl Streep,151,78.8,3.6,11444,41.2
+202,Iron Machine,1976,Adventure|Sci-Fi,James Cameron,Leonardo DiCaprio|Meryl Streep,131,40.1,3.8,26302,99.95
+203,Lisa's Destiny,2022,Action,Martin Scorsese,Joaquin Phoenix|Brad Pitt,98,271.6,4.8,21778,104.53
+204,The Silent Machine,2006,Thriller|Romance,Jordan Peele,Leonardo DiCaprio|Ryan Gosling|Tilda Swinton,119,106.8,4.9,12315,60.34
+205,Dark Oracle,1975,Drama|Animation,Bong Joon-ho,Christian Bale|Scarlett Johansson,79,296.8,4.6,46801,215.28
+206,Victor's Oracle,1992,Horror|Documentary|Drama,Guillermo del Toro,Leonardo DiCaprio|Denzel Washington,131,9.8,4.0,18461,73.84
+207,Twisted Matrix,1980,Comedy,Wes Anderson,Charlize Theron|Meryl Streep|Scarlett Johansson,174,107.1,3.8,11434,43.45
+208,Destiny of Brooklyn,2007,Romance,Greta Gerwig,Matt Damon|Brad Pitt|Morgan Freeman|Jennifer Lawrence,154,53.5,3.0,2537,7.61
+209,Burning Code,2009,Sci-Fi,James Cameron,Natalie Portman|Denzel Washington|Meryl Streep,80,45.2,4.2,46232,194.17
+210,The Hollow Angel,1991,Documentary|Animation,Ridley Scott,Tilda Swinton|Jennifer Lawrence|Denzel Washington|Natalie Portman,166,67.7,3.5,38647,135.26
+211,Lost Justice,1978,Romance,Christopher Nolan,Matt Damon|Ryan Gosling|Meryl Streep|Natalie Portman,156,276.4,2.8,40117,112.33
+212,Marcus's Soul,1980,Western|Adventure|Romance,Sofia Coppola,Leonardo DiCaprio|Robert De Niro|Morgan Freeman,138,208.3,4.0,23019,92.08
+213,The Last Shadow,1998,Drama|Animation|Western,Darren Aronofsky,Emma Stone|Charlize Theron|Ryan Gosling,100,248.8,4.9,37933,185.87
+214,The Dragon Chronicles,2015,Drama,Ridley Scott,Tilda Swinton|Natalie Portman|Meryl Streep|Cate Blanchett,159,62.5,3.0,12500,37.5
+215,Lisa's Ghost,2022,Mystery|Musical|Fantasy,David Fincher,Leonardo DiCaprio|Morgan Freeman,118,191.8,4.1,5419,22.22
+216,Dark Kingdom,1981,Western|Drama,Greta Gerwig,Joaquin Phoenix|Meryl Streep,142,132.5,4.1,17312,70.98
+217,The Legend Code,2021,Drama|Sci-Fi|Musical,Wes Anderson,Meryl Streep|Ryan Gosling|Christian Bale|Tilda Swinton,196,172.2,4.0,15493,61.97
+218,The Phantom World,2021,Animation,Steven Spielberg,Tom Hanks|Tilda Swinton|Morgan Freeman,112,250.4,4.3,16950,72.89
+219,Elena's Legend,2005,Thriller|Crime,Paul Thomas Anderson,Leonardo DiCaprio|Matt Damon|Christian Bale,182,34.6,3.3,9856,32.52
+220,Destiny of Olympus,1976,Sci-Fi|Adventure|Western,Denis Villeneuve,Emma Stone|Tilda Swinton|Robert De Niro|Ryan Gosling,199,172.0,3.7,31051,114.89
+221,Lost Kingdom,2009,Mystery|Romance|Drama,Steven Spielberg,Denzel Washington|Scarlett Johansson|Meryl Streep,196,276.3,4.1,24458,100.28
+222,Infinite Empire,2023,Thriller|Romance,Quentin Tarantino,Brad Pitt|Viola Davis,188,232.4,3.3,21078,69.56
+223,The Last Phoenix,1982,Comedy|Thriller,Bong Joon-ho,Jennifer Lawrence|Christian Bale|Emma Stone|Meryl Streep,206,237.7,3.3,4350,14.36
+224,Heart of Rome,1985,Fantasy,Steven Spielberg,Morgan Freeman|Robert De Niro|Emma Stone,193,152.0,3.9,41692,162.6
+225,Night of the Crimson Ghost,1999,Comedy|Fantasy,Denis Villeneuve,Christian Bale|Ryan Gosling|Cate Blanchett|Leonardo DiCaprio,205,299.8,3.7,24575,90.93
+226,The Phoenix Chronicles,2013,Fantasy,Martin Scorsese,Robert De Niro|Denzel Washington|Lupita Nyong'o,141,197.2,3.9,42744,166.7
+227,The Last Dream,1973,Drama|Mystery|Documentary,James Cameron,Leonardo DiCaprio|Jennifer Lawrence|Viola Davis|Robert De Niro,182,122.0,4.6,48332,222.33
+228,Ancient Destiny,1991,Romance|Comedy|Mystery,Coen Brothers,Jennifer Lawrence|Emma Stone|Christian Bale|Viola Davis,118,252.4,4.3,36635,157.53
+229,Warrior of Paris,2017,Romance|Sci-Fi,Coen Brothers,Denzel Washington|Tom Hanks,131,107.2,3.7,48822,180.64
+230,Victor's Destiny,2024,Fantasy,Steven Spielberg,Matt Damon|Lupita Nyong'o|Tom Hanks|Jennifer Lawrence,124,150.6,4.0,44660,178.64
+231,Beyond the Empire,2024,Animation,David Fincher,Tilda Swinton|Matt Damon|Joaquin Phoenix,111,95.6,3.0,46952,140.86
+232,Lisa's Shadow,1983,Musical,Ridley Scott,Tom Hanks|Brad Pitt|Tilda Swinton,184,121.6,2.6,31336,81.47
+233,Night of the Hollow Shadow,1971,Action|Mystery|Romance,Wes Anderson,Emma Stone|Viola Davis,108,31.7,3.9,33036,128.84
+234,The World Code,1971,Comedy,James Cameron,Leonardo DiCaprio|Matt Damon,204,51.5,4.2,24074,101.11
+235,Night of the Silent Angel,2019,Musical|Action|Western,Steven Spielberg,Cate Blanchett|Leonardo DiCaprio|Meryl Streep|Lupita Nyong'o,181,133.8,4.5,8149,36.67
+236,The Code Chronicles,1983,Mystery|Western|Action,Denis Villeneuve,Cate Blanchett|Christian Bale|Robert De Niro,110,126.2,4.5,6925,31.16
+237,The Code Code,2019,Thriller|Horror,David Fincher,Tilda Swinton|Viola Davis|Natalie Portman,85,164.9,4.5,13661,61.47
+238,Night of the Twisted Dragon,1970,Adventure|Western|Musical,Darren Aronofsky,Tom Hanks|Christian Bale,94,217.3,4.4,6688,29.43
+239,Silent Justice,1997,Adventure|Western|Sci-Fi,Steven Spielberg,Brad Pitt|Natalie Portman,159,107.9,3.7,28736,106.32
+240,Angel of Tokyo,1987,Romance|Thriller,Darren Aronofsky,Natalie Portman|Cate Blanchett|Brad Pitt,90,294.5,3.4,10496,35.69
+241,Angel of Babylon,2009,Thriller,James Cameron,Jennifer Lawrence|Cate Blanchett|Tilda Swinton,187,14.7,3.6,17195,61.9
+242,Phoenix of Midnight,2011,Horror,Darren Aronofsky,Natalie Portman|Tom Hanks|Jennifer Lawrence,157,73.0,3.7,18279,67.63
+243,Burning Soul,1995,Adventure,Alfonso Cuarón,Matt Damon|Joaquin Phoenix|Tom Hanks,202,134.7,4.0,7829,31.32
+244,Dark Warrior,1972,Horror|Action|Adventure,Tim Burton,Viola Davis|Christian Bale|Charlize Theron|Morgan Freeman,191,285.2,2.9,23862,69.2
+245,Victor's Phoenix,2015,Documentary|Romance|Fantasy,Quentin Tarantino,Scarlett Johansson|Leonardo DiCaprio,162,107.2,4.6,41577,191.25
+246,Night of the Broken Storm,1978,Romance|Western|Drama,Quentin Tarantino,Lupita Nyong'o|Morgan Freeman|Matt Damon,105,279.1,3.3,25798,85.13
+247,The Savage Storm,2019,Fantasy|Mystery,Spike Lee,Brad Pitt|Jennifer Lawrence|Leonardo DiCaprio|Christian Bale,87,166.4,3.5,28414,99.45
+248,Night of the Ancient World,1976,Mystery|Musical,Tim Burton,Christian Bale|Ryan Gosling|Tilda Swinton,138,82.8,4.0,22519,90.08
+249,Night of the Lost Matrix,2015,Sci-Fi,Greta Gerwig,Jennifer Lawrence|Matt Damon|Tilda Swinton|Viola Davis,183,242.7,3.9,34307,133.8
+250,The Dark Angel,2012,Comedy,Guillermo del Toro,Viola Davis|Robert De Niro,112,252.0,4.3,45308,194.82
+251,Sam's Warrior,2017,Horror|Drama|Comedy,Paul Thomas Anderson,Viola Davis|Meryl Streep|Ryan Gosling|Charlize Theron,181,287.1,2.9,44951,130.36
+252,Lisa's Storm,1982,Thriller|Sci-Fi|Fantasy,Wes Anderson,Emma Stone|Matt Damon|Charlize Theron|Morgan Freeman,124,89.0,3.6,11677,42.04
+253,Beyond the Ghost,1978,Musical,Guillermo del Toro,Denzel Washington|Joaquin Phoenix,114,12.9,4.7,21193,99.61
+254,Infinite Angel,1994,Horror|Romance,Denis Villeneuve,Christian Bale|Emma Stone,206,241.0,3.2,29250,93.6
+255,Maria's Legend,2019,Horror|Action|Mystery,Martin Scorsese,Morgan Freeman|Tilda Swinton,101,62.5,3.5,46104,161.36
+256,City of Legends,1971,Romance|Documentary,Steven Spielberg,Tom Hanks|Meryl Streep,120,238.5,3.9,36624,142.83
+257,The Ancient Soul,1994,Mystery|Drama,Bong Joon-ho,Leonardo DiCaprio|Ryan Gosling|Cate Blanchett,76,192.8,4.0,40574,162.3
+258,The Ancient Storm,1992,Adventure|Crime|Sci-Fi,Denis Villeneuve,Tom Hanks|Viola Davis|Joaquin Phoenix|Ryan Gosling,176,246.8,3.8,2069,7.86
+259,Night of the Iron Oracle,1989,Western|Sci-Fi|Romance,Greta Gerwig,Charlize Theron|Lupita Nyong'o,111,37.8,4.3,379,1.63
+260,The Last Knight,2011,Animation|Western|Thriller,Wes Anderson,Robert De Niro|Morgan Freeman|Cate Blanchett|Natalie Portman,88,255.6,4.0,36019,144.08
+261,Sam's Dream,1976,Musical|Adventure,David Fincher,Jennifer Lawrence|Joaquin Phoenix|Denzel Washington,153,208.3,3.0,10037,30.11
+262,The Ghost Code,1978,Romance|Documentary|Fantasy,Alfonso Cuarón,Emma Stone|Viola Davis|Jennifer Lawrence,102,53.6,3.1,39805,123.4
+263,The Crimson Dream,1986,Western|Mystery|Adventure,Martin Scorsese,Christian Bale|Leonardo DiCaprio,178,231.0,4.0,13993,55.97
+264,City of Oracles,2011,Documentary,Jordan Peele,Matt Damon|Viola Davis,109,139.9,3.6,33500,120.6
+265,The Iron Knight,2012,Thriller,Tim Burton,Natalie Portman|Christian Bale|Brad Pitt|Joaquin Phoenix,115,54.6,4.4,37131,163.38
+266,Sam's Storm,2003,Drama|Fantasy,Alfonso Cuarón,Meryl Streep|Denzel Washington,101,211.4,3.5,34218,119.76
+267,Beyond the Knight,2003,Drama|Comedy,Paul Thomas Anderson,Emma Stone|Lupita Nyong'o|Jennifer Lawrence,198,266.3,4.4,482,2.12
+268,The Burning Kingdom,1981,Documentary,Tim Burton,Cate Blanchett|Scarlett Johansson|Tilda Swinton|Denzel Washington,104,145.0,4.1,31429,128.86
+269,Forgotten Storm,1978,Horror|Action|Musical,James Cameron,Natalie Portman|Robert De Niro,121,155.5,4.7,26621,125.12
+270,Lost in Valhalla,1975,Fantasy,Tim Burton,Jennifer Lawrence|Natalie Portman|Scarlett Johansson,180,180.7,3.9,38234,149.11
+271,Machine of Olympus,1984,Drama|Animation,Quentin Tarantino,Morgan Freeman|Christian Bale,204,205.6,4.3,9851,42.36
+272,The Twisted Dream,2019,Mystery|Drama|Horror,Bong Joon-ho,Meryl Streep|Christian Bale|Tilda Swinton,133,281.6,3.6,31646,113.93
+273,The Knight Code,1997,Crime,Darren Aronofsky,Tom Hanks|Viola Davis,179,78.1,2.4,408,0.98
+274,Night of the Dark Destiny,2003,Drama,David Fincher,Denzel Washington|Tilda Swinton|Emma Stone|Cate Blanchett,114,128.4,3.8,38412,145.97
+275,The Last Oracle,2009,Mystery|Drama,David Fincher,Charlize Theron|Lupita Nyong'o|Jennifer Lawrence,120,111.7,3.4,36416,123.81
+276,Night of the Forgotten Machine,1976,Horror,Jordan Peele,Charlize Theron|Meryl Streep|Natalie Portman,174,289.4,3.6,396,1.43
+277,The Golden Kingdom,1975,Action|Romance|Drama,Jordan Peele,Christian Bale|Viola Davis|Meryl Streep|Natalie Portman,201,132.3,2.6,13269,34.5
+278,Avalon Story,2019,Documentary|Mystery,Jordan Peele,Matt Damon|Morgan Freeman|Christian Bale,78,221.3,4.4,4546,20.0
+279,Sam's Soul,1999,Musical|Action,Guillermo del Toro,Tilda Swinton|Christian Bale,102,168.0,4.8,33025,158.52
+280,City of Destinys,1994,Fantasy|Sci-Fi|Comedy,Sofia Coppola,Joaquin Phoenix|Matt Damon|Leonardo DiCaprio,198,35.8,4.9,4477,21.94
+281,Beyond the Soul,1996,Horror|Western,Christopher Nolan,Robert De Niro|Scarlett Johansson|Viola Davis|Tom Hanks,177,202.4,4.0,22462,89.85
+282,The Frozen World,1992,Western,Spike Lee,Natalie Portman|Morgan Freeman|Jennifer Lawrence,126,71.2,3.6,15913,57.29
+283,Lisa's Dragon,2001,Sci-Fi,Paul Thomas Anderson,Ryan Gosling|Scarlett Johansson|Brad Pitt,88,158.2,4.6,27783,127.8
+284,Sam's Shadow,1994,Adventure|Documentary|Thriller,Tim Burton,Natalie Portman|Charlize Theron|Robert De Niro,135,81.6,3.8,40229,152.87
+285,Elena's World,1983,Romance|Sci-Fi,Greta Gerwig,Ryan Gosling|Robert De Niro|Joaquin Phoenix,121,171.9,4.3,37791,162.5
+286,Code of Eden,2020,Crime|Western,Coen Brothers,Meryl Streep|Ryan Gosling|Cate Blanchett|Natalie Portman,90,65.4,3.7,16715,61.85
+287,Marcus's Ghost,2013,Comedy|Musical|Thriller,Coen Brothers,Viola Davis|Emma Stone,158,202.3,3.3,31998,105.59
+288,Beyond the Destiny,1975,Documentary,Wes Anderson,Denzel Washington|Viola Davis|Robert De Niro,176,82.1,3.9,29206,113.9
+289,Kingdom of Valhalla,1983,Drama,Quentin Tarantino,Tom Hanks|Jennifer Lawrence,88,8.9,4.3,26068,112.09
+290,The Iron Empire,2017,Fantasy|Mystery,James Cameron,Christian Bale|Natalie Portman,82,11.5,3.9,23435,91.4
+291,Lisa's Kingdom,1970,Horror,James Cameron,Viola Davis|Jennifer Lawrence|Charlize Theron,77,206.6,4.2,32289,135.61
+292,The Phoenix Code,2005,Comedy|Drama,Coen Brothers,Ryan Gosling|Scarlett Johansson|Natalie Portman,174,248.7,4.3,14506,62.38
+293,The Last Ghost,2003,Sci-Fi|Romance|Mystery,Guillermo del Toro,Charlize Theron|Robert De Niro|Tilda Swinton,123,256.2,4.0,12004,48.02
+294,Warrior of Arcadia,2009,Crime|Romance,Tim Burton,Morgan Freeman|Denzel Washington|Leonardo DiCaprio,113,15.8,4.4,35109,154.48
+295,Lost Warrior,1978,Fantasy|Romance|Action,Wes Anderson,Brad Pitt|Leonardo DiCaprio,201,65.9,4.2,27591,115.88
+296,Lisa's Dream,2019,Adventure|Horror,Darren Aronofsky,Morgan Freeman|Robert De Niro,172,248.6,3.9,8042,31.36
+297,Night of the Frozen Matrix,2000,Crime|Comedy|Documentary,Steven Spielberg,Morgan Freeman|Cate Blanchett|Scarlett Johansson|Tilda Swinton,158,5.5,4.7,18144,85.28
+298,Silent Destiny,2014,Animation|Documentary|Sci-Fi,Martin Scorsese,Natalie Portman|Jennifer Lawrence,98,206.1,2.8,22228,62.24
+299,Night of the Frozen Warrior,1984,Horror|Sci-Fi,Greta Gerwig,Morgan Freeman|Leonardo DiCaprio|Ryan Gosling,166,217.6,3.4,16479,56.03
+300,City of Codes,2005,Horror|Romance,Darren Aronofsky,Matt Damon|Natalie Portman,164,97.8,4.3,30746,132.21
+301,Night of the Lost Shadow,2019,Comedy|Documentary|Romance,Martin Scorsese,Charlize Theron|Ryan Gosling|Morgan Freeman|Christian Bale,202,230.0,4.8,10151,48.72
+302,The Broken Matrix,1972,Animation,Steven Spielberg,Cate Blanchett|Jennifer Lawrence,124,30.5,3.7,37471,138.64
+303,Hollow Soul,1970,Mystery,Darren Aronofsky,Joaquin Phoenix|Meryl Streep,167,167.8,4.0,27309,109.24
+304,Night of the Forgotten Oracle,1982,Mystery|Comedy|Musical,Ridley Scott,Charlize Theron|Tilda Swinton|Cate Blanchett|Emma Stone,192,211.1,3.2,28038,89.72
+305,Knight of Olympus,1984,Sci-Fi|Crime,Martin Scorsese,Ryan Gosling|Matt Damon|Morgan Freeman|Tom Hanks,158,238.1,4.4,11381,50.08
+306,Ancient Angel,2019,Documentary|Thriller,Bong Joon-ho,Cate Blanchett|Scarlett Johansson|Leonardo DiCaprio,172,17.2,4.4,34415,151.43
+307,Infinite Oracle,1990,Romance|Comedy|Animation,Steven Spielberg,Ryan Gosling|Joaquin Phoenix|Christian Bale|Tom Hanks,131,130.1,4.3,25892,111.34
+308,Dragon of Avalon,2006,Action|Horror|Drama,Guillermo del Toro,Ryan Gosling|Christian Bale,186,232.4,4.1,8594,35.24
+309,Phoenix of Rome,2009,Fantasy,Steven Spielberg,Morgan Freeman|Emma Stone,114,227.6,4.5,5673,25.53
+310,The Last Code,1983,Horror|Comedy|Thriller,Coen Brothers,Robert De Niro|Charlize Theron|Jennifer Lawrence|Brad Pitt,79,113.6,4.0,43534,174.14
+311,Matrix of Paris,1972,Western,Paul Thomas Anderson,Denzel Washington|Jennifer Lawrence|Ryan Gosling,115,6.5,4.0,44897,179.59
+312,Lost in Mars,1998,Animation|Comedy|Mystery,James Cameron,Charlize Theron|Morgan Freeman|Brad Pitt|Viola Davis,209,273.0,4.0,28234,112.94
+313,The Frozen Oracle,1981,Thriller|Animation,Christopher Nolan,Tilda Swinton|Lupita Nyong'o|Viola Davis,188,223.9,4.1,41786,171.32
+314,The Hidden World,2008,Musical|Comedy|Western,Wes Anderson,Leonardo DiCaprio|Emma Stone,95,206.8,3.5,31284,109.49
+315,Phoenix of Paris,1981,Fantasy|Western,James Cameron,Morgan Freeman|Scarlett Johansson,83,123.2,3.4,1033,3.51
+316,Night of the Infinite Angel,2003,Fantasy,Alfonso Cuarón,Scarlett Johansson|Christian Bale,176,295.2,2.9,2622,7.6
+317,Oracle of Eden,1996,Fantasy|Action,Ridley Scott,Matt Damon|Morgan Freeman|Joaquin Phoenix,98,75.8,3.2,45382,145.22
+318,Night of the Phantom Knight,2016,Musical|Animation|Drama,Coen Brothers,Meryl Streep|Natalie Portman|Denzel Washington,113,49.5,3.9,9526,37.15
+319,Ghost of Mars,2016,Crime|Mystery,Ridley Scott,Brad Pitt|Morgan Freeman,75,187.1,4.1,16637,68.21
+320,Phantom Code,2004,Musical,Darren Aronofsky,Morgan Freeman|Matt Damon,196,136.7,2.8,29008,81.22
+321,The Wild Phoenix,2005,Musical|Mystery,Coen Brothers,Meryl Streep|Natalie Portman,112,17.5,3.2,22923,73.35
+322,Hidden Storm,1991,Action,Quentin Tarantino,Natalie Portman|Lupita Nyong'o|Viola Davis,120,289.9,3.5,49158,172.05
+323,Sam's Ghost,2014,Musical,Steven Spielberg,Matt Damon|Christian Bale,97,145.6,3.5,45181,158.13
+324,Lost in Olympus,1986,Musical|Western|Documentary,James Cameron,Matt Damon|Jennifer Lawrence|Christian Bale|Lupita Nyong'o,201,242.6,3.1,39988,123.96
+325,Phantom Warrior,2021,Drama|Western|Action,Sofia Coppola,Charlize Theron|Morgan Freeman|Leonardo DiCaprio,126,207.3,3.4,16723,56.86
+326,Alex's Destiny,2023,Comedy,Sofia Coppola,Jennifer Lawrence|Lupita Nyong'o|Meryl Streep,109,145.0,3.6,41154,148.15
+327,Dark Justice,2006,Drama|Animation|Musical,Quentin Tarantino,Denzel Washington|Meryl Streep|Robert De Niro,180,27.0,4.4,15624,68.75
+328,Knight of Babylon,2019,Western,Martin Scorsese,Christian Bale|Leonardo DiCaprio|Jennifer Lawrence,203,47.1,3.0,22339,67.02
+329,Matrix of Arcadia,1983,Action|Fantasy|Drama,Paul Thomas Anderson,Leonardo DiCaprio|Viola Davis,86,206.4,4.0,38997,155.99
+330,Golden Justice,1976,Sci-Fi|Mystery|Romance,Denis Villeneuve,Matt Damon|Viola Davis,128,96.9,2.3,12668,29.14
+331,Empire of Olympus,2004,Action|Animation,Christopher Nolan,Meryl Streep|Cate Blanchett|Ryan Gosling,88,26.7,3.7,25734,95.22
+332,Destiny of Arcadia,2009,Crime|Documentary,David Fincher,Charlize Theron|Tom Hanks|Joaquin Phoenix|Brad Pitt,98,244.0,4.6,45833,210.83
+333,The Twisted Warrior,1999,Crime,Greta Gerwig,Matt Damon|Brad Pitt|Christian Bale|Cate Blanchett,178,245.4,2.3,7061,16.24
+334,Lisa's Legend,2004,Drama|Musical,Bong Joon-ho,Lupita Nyong'o|Scarlett Johansson,115,292.2,3.7,25203,93.25
+335,The Infinite Heart,2020,Musical|Sci-Fi,Sofia Coppola,Scarlett Johansson|Natalie Portman|Tom Hanks|Jennifer Lawrence,104,178.1,4.4,30387,133.7
+336,Victor's Warrior,1981,Drama|Adventure,Tim Burton,Lupita Nyong'o|Ryan Gosling,158,148.8,4.4,43314,190.58
+337,Golden Heart,2007,Sci-Fi|Action|Western,James Cameron,Brad Pitt|Joaquin Phoenix|Charlize Theron|Viola Davis,174,185.1,2.8,29355,82.19
+338,Frozen Knight,1971,Drama,Spike Lee,Denzel Washington|Ryan Gosling|Matt Damon,172,131.1,4.0,13892,55.57
+339,Dream of Eden,1974,Action|Animation|Romance,Darren Aronofsky,Tilda Swinton|Brad Pitt|Tom Hanks|Matt Damon,181,258.2,3.8,45623,173.37
+340,The Ancient Code,1979,Romance|Horror|Sci-Fi,Guillermo del Toro,Christian Bale|Tom Hanks|Lupita Nyong'o,97,74.3,3.0,41381,124.14
+341,Night of the Golden Oracle,2009,Western,Sofia Coppola,Leonardo DiCaprio|Jennifer Lawrence|Joaquin Phoenix|Christian Bale,195,172.6,3.2,21776,69.68
+342,Wild Empire,1973,Fantasy|Musical|Animation,Spike Lee,Viola Davis|Leonardo DiCaprio,148,145.9,3.7,8361,30.94
+343,Broken Phoenix,2012,Documentary|Sci-Fi,Ridley Scott,Scarlett Johansson|Jennifer Lawrence|Natalie Portman,210,258.7,4.1,22518,92.32
+344,The Hidden Phoenix,2023,Sci-Fi|Drama,Jordan Peele,Joaquin Phoenix|Natalie Portman,128,173.7,3.9,22664,88.39
+345,Crimson Warrior,1999,Fantasy|Crime,Darren Aronofsky,Charlize Theron|Scarlett Johansson|Ryan Gosling|Lupita Nyong'o,196,79.5,3.1,34813,107.92
+346,The Frozen Knight,2009,Thriller|Crime|Documentary,Guillermo del Toro,Cate Blanchett|Robert De Niro|Ryan Gosling,193,232.2,2.3,49142,113.03
+347,The Burning Warrior,1992,Romance,Denis Villeneuve,Morgan Freeman|Meryl Streep|Leonardo DiCaprio,98,18.0,3.9,38987,152.05
+348,Night of the Broken Legend,1994,Sci-Fi|Mystery|Musical,Ridley Scott,Natalie Portman|Robert De Niro,150,140.6,4.0,5012,20.05
+349,Night of the Infinite Kingdom,1987,Drama,Jordan Peele,Meryl Streep|Robert De Niro|Matt Damon,120,132.7,4.6,32275,148.47
+350,The Silent Legend,2019,Action|Fantasy,James Cameron,Leonardo DiCaprio|Meryl Streep|Ryan Gosling|Robert De Niro,113,210.3,2.6,25696,66.81
+351,Dark Angel,2004,Action,Jordan Peele,Jennifer Lawrence|Cate Blanchett|Charlize Theron|Emma Stone,160,204.9,3.2,26304,84.17
+352,The Phantom Empire,1981,Action|Drama|Mystery,David Fincher,Ryan Gosling|Cate Blanchett|Emma Stone,199,26.4,4.4,41520,182.69
+353,Dark Dream,1971,Musical|Comedy|Fantasy,Jordan Peele,Charlize Theron|Viola Davis,202,160.6,4.4,29495,129.78
+354,Silent Dragon,2020,Action|Drama|Adventure,David Fincher,Christian Bale|Joaquin Phoenix|Charlize Theron|Brad Pitt,134,277.5,4.7,2466,11.59
+355,Night of the Hidden Code,2000,Action|Comedy|Romance,James Cameron,Natalie Portman|Meryl Streep,153,246.4,2.7,6426,17.35
+356,Maria's Destiny,1990,Sci-Fi,Steven Spielberg,Natalie Portman|Denzel Washington|Tom Hanks|Cate Blanchett,145,43.2,4.2,27257,114.48
+357,Twisted Legend,1981,Romance,Spike Lee,Tilda Swinton|Jennifer Lawrence|Brad Pitt,127,43.8,4.1,17806,73.0
+358,Frozen Soul,2003,Musical,Greta Gerwig,Christian Bale|Scarlett Johansson|Joaquin Phoenix|Morgan Freeman,145,16.9,4.7,7434,34.94
+359,Storm of Arcadia,1988,Drama,Guillermo del Toro,Lupita Nyong'o|Joaquin Phoenix|Meryl Streep,101,222.4,2.8,35266,98.74
+360,Shadow of Paris,1974,Romance,Alfonso Cuarón,Matt Damon|Denzel Washington|Tilda Swinton|Morgan Freeman,158,69.8,3.7,7267,26.89
+361,Elena's Warrior,1982,Western|Comedy,Martin Scorsese,Matt Damon|Jennifer Lawrence|Meryl Streep,186,44.3,4.2,39989,167.95
+362,Dark Knight,1991,Action,Spike Lee,Robert De Niro|Brad Pitt,103,255.6,4.2,30103,126.43
+363,The Savage Matrix,2007,Thriller|Fantasy,Guillermo del Toro,Tilda Swinton|Scarlett Johansson,138,98.9,3.7,38025,140.69
+364,Beyond the Angel,1998,Comedy|Adventure,Coen Brothers,Tilda Swinton|Morgan Freeman,108,108.2,4.5,15717,70.73
+365,Destiny of Valhalla,1999,Sci-Fi|Animation,Jordan Peele,Emma Stone|Joaquin Phoenix,75,258.3,2.7,4683,12.64
+366,John's Oracle,2005,Sci-Fi|Comedy|Animation,Sofia Coppola,Charlize Theron|Cate Blanchett,197,221.5,2.7,49351,133.25
+367,Dark Matrix,2000,Horror|Mystery|Western,Denis Villeneuve,Lupita Nyong'o|Emma Stone|Tom Hanks,123,267.7,4.0,30057,120.23
+368,The Golden Angel,1974,Animation,Guillermo del Toro,Brad Pitt|Jennifer Lawrence,113,262.6,3.9,34173,133.27
+369,Soul of Paris,1988,Animation,Greta Gerwig,Joaquin Phoenix|Natalie Portman|Matt Damon,148,55.5,4.3,11542,49.63
+370,Infinite Destiny,1986,Animation|Comedy,Coen Brothers,Meryl Streep|Denzel Washington|Emma Stone|Brad Pitt,170,135.1,4.0,10705,42.82
+371,Oracle of Atlantis,2011,Crime|Fantasy|Western,Spike Lee,Brad Pitt|Matt Damon|Joaquin Phoenix|Denzel Washington,103,219.8,3.4,2676,9.1
+372,Warrior of Mars,1995,Thriller|Comedy|Fantasy,Greta Gerwig,Denzel Washington|Meryl Streep,124,175.4,4.6,14608,67.2
+373,Lisa's Knight,1992,Crime|Fantasy,Coen Brothers,Morgan Freeman|Joaquin Phoenix,181,241.3,3.8,18965,72.07
+374,Ghost of Eden,1979,Crime,Darren Aronofsky,Denzel Washington|Tom Hanks|Ryan Gosling|Matt Damon,76,123.4,3.6,17962,64.66
+375,Eternal Destiny,2005,Fantasy|Comedy|Action,Christopher Nolan,Robert De Niro|Viola Davis,195,38.1,4.8,43691,209.72
+376,Marcus's Storm,1996,Western|Documentary|Action,Denis Villeneuve,Christian Bale|Tom Hanks|Lupita Nyong'o,124,230.2,3.0,12059,36.18
+377,Maria's Ghost,1976,Animation,Paul Thomas Anderson,Morgan Freeman|Charlize Theron,209,254.0,3.8,46747,177.64
+378,The Hidden Shadow,1989,Documentary|Animation|Fantasy,Tim Burton,Denzel Washington|Natalie Portman|Viola Davis|Leonardo DiCaprio,105,67.5,4.2,45547,191.3
+379,Empire of Eden,1978,Drama,Quentin Tarantino,Leonardo DiCaprio|Jennifer Lawrence,185,13.7,3.7,7115,26.33
+380,Burning Destiny,1977,Action|Adventure,Denis Villeneuve,Leonardo DiCaprio|Cate Blanchett|Matt Damon|Morgan Freeman,126,56.2,3.4,23088,78.5
+381,Golden Dream,2007,Documentary|Animation,Paul Thomas Anderson,Lupita Nyong'o|Scarlett Johansson|Christian Bale|Tom Hanks,100,246.1,4.3,966,4.15
+382,The Heart Chronicles,2018,Action|Romance|Adventure,David Fincher,Jennifer Lawrence|Emma Stone|Natalie Portman|Joaquin Phoenix,102,55.1,3.5,23303,81.56
+383,Beyond the Heart,1996,Sci-Fi,Sofia Coppola,Joaquin Phoenix|Cate Blanchett,208,41.6,4.5,23724,106.76
+384,Night of the Eternal Oracle,1975,Fantasy|Adventure,Jordan Peele,Joaquin Phoenix|Viola Davis|Lupita Nyong'o,132,166.6,3.0,19094,57.28
+385,Beyond the Warrior,1974,Comedy|Documentary,David Fincher,Ryan Gosling|Cate Blanchett|Scarlett Johansson|Tilda Swinton,202,84.3,4.1,46809,191.92
+386,The Broken Kingdom,1984,Animation|Action|Adventure,Steven Spielberg,Jennifer Lawrence|Leonardo DiCaprio,120,115.4,3.5,44562,155.97
+387,Lost Oracle,2015,Fantasy,Bong Joon-ho,Viola Davis|Ryan Gosling,199,229.4,4.2,37330,156.79
+388,Ancient Storm,1992,Musical|Action|Sci-Fi,Sofia Coppola,Cate Blanchett|Tilda Swinton|Emma Stone,166,124.2,4.5,3749,16.87
+389,Zion Story,2007,Western,Martin Scorsese,Cate Blanchett|Denzel Washington|Natalie Portman,80,162.0,3.7,2499,9.25
+390,Marcus's Destiny,2006,Sci-Fi,Darren Aronofsky,Morgan Freeman|Denzel Washington,202,151.3,3.9,43787,170.77
+391,Maria's Dream,2017,Sci-Fi|Crime|Drama,Bong Joon-ho,Tom Hanks|Morgan Freeman|Tilda Swinton,143,247.3,2.5,42389,105.97
+392,Phoenix of Zion,1985,Animation,David Fincher,Scarlett Johansson|Viola Davis,193,146.1,2.9,28632,83.03
+393,Kingdom of Babylon,2012,Animation|Mystery|Action,Darren Aronofsky,Meryl Streep|Tom Hanks,155,180.9,4.2,4216,17.71
+394,The Lost Heart,1996,Thriller|Musical,Steven Spielberg,Charlize Theron|Emma Stone|Cate Blanchett,156,164.2,3.9,31170,121.56
+395,Wild Storm,2014,Comedy|Crime|Horror,Jordan Peele,Emma Stone|Cate Blanchett|Charlize Theron,135,257.4,4.7,25508,119.89
+396,Iron Kingdom,2022,Crime,David Fincher,Joaquin Phoenix|Denzel Washington,179,237.0,4.3,18009,77.44
+397,The Lost Soul,2024,Mystery|Drama|Sci-Fi,Sofia Coppola,Jennifer Lawrence|Brad Pitt|Robert De Niro,119,206.6,3.5,21518,75.31
+398,Sam's Angel,1971,Western,Coen Brothers,Lupita Nyong'o|Scarlett Johansson|Tom Hanks|Joaquin Phoenix,125,79.3,3.6,11109,39.99
+399,Iron Phoenix,1979,Documentary,Ridley Scott,Cate Blanchett|Leonardo DiCaprio|Christian Bale|Tilda Swinton,191,248.3,3.9,32434,126.49
+400,The Forgotten Heart,1988,Fantasy|Drama|Animation,Bong Joon-ho,Lupita Nyong'o|Morgan Freeman,147,218.3,3.6,12460,44.86
+401,Eternal Kingdom,1985,Musical|Mystery,Alfonso Cuarón,Leonardo DiCaprio|Jennifer Lawrence,109,261.6,3.1,45467,140.95
+402,Night of the Wild Kingdom,2005,Action,Sofia Coppola,Jennifer Lawrence|Emma Stone,86,2.6,4.1,33115,135.77
+403,Storm of Olympus,1986,Horror,Darren Aronofsky,Joaquin Phoenix|Brad Pitt|Tom Hanks,156,213.4,4.3,28422,122.21
+404,Warrior of Brooklyn,1978,Thriller|Western,Guillermo del Toro,Emma Stone|Tilda Swinton|Viola Davis|Robert De Niro,142,155.6,4.7,28608,134.46
+405,Last Dream,1981,Fantasy,Guillermo del Toro,Joaquin Phoenix|Tilda Swinton,104,298.6,4.0,32484,129.94
+406,Phantom Knight,1999,Adventure|Thriller,James Cameron,Emma Stone|Tom Hanks,127,260.6,4.5,11889,53.5
+407,Alex's Dream,2021,Crime|Documentary|Sci-Fi,Steven Spielberg,Tom Hanks|Charlize Theron|Ryan Gosling|Lupita Nyong'o,177,77.3,3.7,15783,58.4
+408,Angel of Mars,1977,Fantasy|Sci-Fi,Bong Joon-ho,Viola Davis|Brad Pitt|Emma Stone|Cate Blanchett,169,154.3,3.7,32137,118.91
+409,The Savage Knight,1997,Drama|Adventure|Action,Paul Thomas Anderson,Joaquin Phoenix|Scarlett Johansson|Brad Pitt,201,158.7,4.6,42466,195.34
+410,The Twisted Empire,2013,Thriller|Comedy,Paul Thomas Anderson,Viola Davis|Matt Damon|Meryl Streep,94,275.3,4.4,33697,148.27
+411,The Burning Ghost,1999,Romance|Musical|Crime,Greta Gerwig,Matt Damon|Tom Hanks|Christian Bale,79,35.1,4.3,43407,186.65
+412,Victor's Machine,2009,Documentary|Thriller,Ridley Scott,Natalie Portman|Tom Hanks,141,261.6,2.6,7018,18.25
+413,Last Warrior,2014,Thriller,Christopher Nolan,Jennifer Lawrence|Brad Pitt,136,131.3,4.0,41079,164.32
+414,Broken World,2001,Action|Thriller,Alfonso Cuarón,Scarlett Johansson|Morgan Freeman|Viola Davis|Ryan Gosling,88,100.8,4.6,6778,31.18
+415,Rome Story,2017,Musical|Romance|Horror,Denis Villeneuve,Jennifer Lawrence|Ryan Gosling,199,154.5,4.4,47538,209.17
+416,Night of the Last Code,1984,Comedy|Musical|Mystery,Sofia Coppola,Joaquin Phoenix|Brad Pitt|Viola Davis|Ryan Gosling,181,250.1,4.2,44162,185.48
+417,Code of Avalon,2001,Comedy|Western,Coen Brothers,Leonardo DiCaprio|Emma Stone,141,107.8,4.5,10444,47.0
+418,Storm of Babylon,1991,Adventure|Musical,Wes Anderson,Charlize Theron|Scarlett Johansson,199,78.1,3.2,22353,71.53
+419,The Storm Code,1979,Thriller|Horror|Musical,Quentin Tarantino,Meryl Streep|Joaquin Phoenix|Matt Damon|Cate Blanchett,102,234.7,3.9,40004,156.02
+420,Heart of Brooklyn,2016,Romance|Fantasy,Paul Thomas Anderson,Cate Blanchett|Brad Pitt|Emma Stone,160,245.9,4.5,8109,36.49
+421,The Crimson Knight,1993,Mystery|Comedy|Animation,Paul Thomas Anderson,Scarlett Johansson|Brad Pitt|Tilda Swinton,180,275.5,4.6,30114,138.52
+422,Matrix of Avalon,1991,Drama|Sci-Fi,Ridley Scott,Meryl Streep|Ryan Gosling|Lupita Nyong'o,113,270.9,2.4,3838,9.21
+423,Night of the Hollow Angel,1989,Action,Coen Brothers,Ryan Gosling|Brad Pitt|Christian Bale,147,64.9,2.3,33582,77.24
+424,Night of the Silent Knight,1977,Sci-Fi,Quentin Tarantino,Viola Davis|Matt Damon|Leonardo DiCaprio,191,102.4,3.4,15522,52.77
+425,Maria's Empire,2015,Horror|Romance,Wes Anderson,Denzel Washington|Christian Bale,124,247.0,4.0,23726,94.9
+426,The Hollow Matrix,1986,Fantasy|Mystery|Drama,Alfonso Cuarón,Jennifer Lawrence|Tilda Swinton|Natalie Portman|Brad Pitt,204,39.0,3.6,46655,167.96
+427,Night of the Last Machine,2017,Horror,Greta Gerwig,Lupita Nyong'o|Tilda Swinton,103,37.1,3.6,37521,135.08
+428,Eternal Empire,2022,Fantasy|Action|Adventure,Coen Brothers,Tom Hanks|Meryl Streep|Tilda Swinton,198,172.3,3.6,37127,133.66
+429,Crimson Heart,1975,Musical|Documentary|Drama,Spike Lee,Jennifer Lawrence|Leonardo DiCaprio,162,131.7,4.0,27243,108.97
+430,Burning Dragon,1975,Adventure,Coen Brothers,Viola Davis|Brad Pitt,121,77.4,2.4,5923,14.22
+431,Ghost of Arcadia,1973,Documentary|Animation|Action,Steven Spielberg,Ryan Gosling|Cate Blanchett|Denzel Washington,111,124.4,4.4,21297,93.71
+432,Infinite Machine,1974,Action|Drama,Wes Anderson,Robert De Niro|Charlize Theron,100,74.6,3.8,36403,138.33
+433,Sam's World,2004,Western|Horror,Alfonso Cuarón,Leonardo DiCaprio|Joaquin Phoenix,149,196.3,4.3,11019,47.38
+434,Silent Code,2023,Drama|Documentary|Mystery,David Fincher,Christian Bale|Viola Davis|Meryl Streep|Natalie Portman,92,90.9,2.8,25956,72.68
+435,Night of the Broken Dream,1997,Musical,Paul Thomas Anderson,Denzel Washington|Robert De Niro|Joaquin Phoenix,144,74.5,3.8,21128,80.29
+436,Marcus's Machine,1971,Animation|Mystery|Action,Tim Burton,Leonardo DiCaprio|Lupita Nyong'o|Natalie Portman,180,167.2,4.6,45695,210.2
+437,Night of the Twisted Angel,2020,Mystery|Adventure|Horror,Christopher Nolan,Joaquin Phoenix|Cate Blanchett|Emma Stone|Ryan Gosling,166,116.6,3.7,45730,169.2
+438,Broken Machine,1998,Comedy,Christopher Nolan,Emma Stone|Morgan Freeman|Tom Hanks,152,242.7,4.3,14543,62.53
+439,The Ancient Dream,1978,Western|Musical,Wes Anderson,Robert De Niro|Morgan Freeman|Leonardo DiCaprio|Lupita Nyong'o,191,1.6,4.0,28041,112.16
+440,Crimson Ghost,1990,Drama,David Fincher,Tom Hanks|Matt Damon|Leonardo DiCaprio,132,293.5,3.2,27825,89.04
+441,The Silent Storm,2024,Adventure|Sci-Fi|Animation,Steven Spielberg,Meryl Streep|Viola Davis|Tilda Swinton,91,31.4,4.9,3706,18.16
+442,Victor's Code,1981,Animation,Steven Spielberg,Brad Pitt|Viola Davis,186,154.4,4.2,42760,179.59
+443,Forgotten Matrix,1997,Comedy|Western,David Fincher,Denzel Washington|Morgan Freeman,196,208.7,4.8,30681,147.27
+444,The Phantom Storm,1970,Comedy|Romance|Western,Alfonso Cuarón,Morgan Freeman|Scarlett Johansson|Jennifer Lawrence|Denzel Washington,171,62.4,3.2,12124,38.8
+445,Maria's Oracle,1988,Comedy|Mystery,Spike Lee,Meryl Streep|Leonardo DiCaprio|Morgan Freeman,125,85.9,3.0,14398,43.19
+446,Shadow of Eden,1976,Thriller,James Cameron,Cate Blanchett|Denzel Washington|Morgan Freeman,153,137.4,4.4,24274,106.81
+447,Night of the Hollow Dragon,2010,Western,Steven Spielberg,Matt Damon|Morgan Freeman|Charlize Theron|Viola Davis,113,99.0,4.3,3540,15.22
+448,Night of the Hollow Matrix,2015,Fantasy|Crime,Spike Lee,Matt Damon|Meryl Streep|Morgan Freeman,131,268.6,3.9,29677,115.74
+449,Elena's Dragon,1971,Fantasy,Wes Anderson,Tom Hanks|Emma Stone|Lupita Nyong'o,150,252.9,4.4,33656,148.09
+450,The Golden Knight,1991,Mystery,Sofia Coppola,Viola Davis|Robert De Niro|Morgan Freeman,110,299.5,3.6,49358,177.69
+451,Night of the Frozen Kingdom,1988,Sci-Fi|Drama,Jordan Peele,Leonardo DiCaprio|Jennifer Lawrence|Christian Bale|Brad Pitt,176,69.0,3.0,47454,142.36
+452,Night of the Phantom Dragon,1990,Drama,Bong Joon-ho,Joaquin Phoenix|Lupita Nyong'o,82,113.0,3.0,37897,113.69
+453,Lost Heart,1988,Comedy,Denis Villeneuve,Christian Bale|Tom Hanks|Joaquin Phoenix|Meryl Streep,169,156.0,4.2,11310,47.5
+454,Ghost of Paris,1994,Animation,David Fincher,Tilda Swinton|Jennifer Lawrence|Natalie Portman,154,176.7,3.0,32980,98.94
+455,Night of the Phantom Kingdom,1979,Adventure|Thriller,Jordan Peele,Scarlett Johansson|Christian Bale|Denzel Washington|Jennifer Lawrence,192,139.3,4.7,2611,12.27
+456,Night of the Golden Empire,1992,Thriller|Romance|Sci-Fi,Denis Villeneuve,Lupita Nyong'o|Natalie Portman|Tilda Swinton,138,54.7,4.3,40533,174.29
+457,Night of the Savage Machine,2014,Adventure|Drama|Romance,Steven Spielberg,Natalie Portman|Robert De Niro,149,200.3,4.4,4424,19.47
+458,Marcus's Warrior,1996,Animation|Crime,David Fincher,Meryl Streep|Joaquin Phoenix|Leonardo DiCaprio|Tom Hanks,193,115.0,4.7,48937,230.0
+459,Night of the Phantom Dream,2023,Animation,Christopher Nolan,Cate Blanchett|Natalie Portman|Viola Davis|Lupita Nyong'o,175,51.4,4.0,44050,176.2
+460,Alex's Heart,2013,Comedy|Fantasy|Romance,Steven Spielberg,Christian Bale|Cate Blanchett|Ryan Gosling|Viola Davis,188,16.7,3.5,355,1.24
+461,Iron Heart,1985,Adventure,Christopher Nolan,Leonardo DiCaprio|Lupita Nyong'o|Denzel Washington,124,204.3,3.0,4190,12.57
+462,Savage Matrix,1990,Mystery|Comedy|Musical,David Fincher,Ryan Gosling|Tilda Swinton|Cate Blanchett|Scarlett Johansson,129,32.7,4.1,21242,87.09
+463,Angel of Arcadia,1970,Comedy|Fantasy,Wes Anderson,Robert De Niro|Emma Stone,86,21.1,3.2,14373,45.99
+464,Night of the Frozen Destiny,1976,Documentary|Mystery|Romance,Jordan Peele,Brad Pitt|Denzel Washington|Natalie Portman|Matt Damon,198,21.2,3.1,1206,3.74
+465,Code of Mars,1979,Comedy|Mystery,Steven Spielberg,Lupita Nyong'o|Joaquin Phoenix,159,41.1,3.2,20860,66.75
+466,The Twisted Legend,2010,Comedy,James Cameron,Natalie Portman|Matt Damon,127,71.7,4.2,5172,21.72
+467,Twisted Justice,1997,Sci-Fi,Denis Villeneuve,Charlize Theron|Brad Pitt|Lupita Nyong'o|Natalie Portman,140,114.8,3.7,20094,74.35
+468,The Infinite Dream,1982,Western,David Fincher,Leonardo DiCaprio|Christian Bale,170,147.9,3.7,27301,101.01
+469,Broken Legend,1995,Musical|Adventure|Horror,David Fincher,Natalie Portman|Tilda Swinton|Robert De Niro,152,150.7,3.1,34993,108.48
+470,Night of the Savage World,1981,Animation|Comedy|Fantasy,Ridley Scott,Cate Blanchett|Joaquin Phoenix|Morgan Freeman|Natalie Portman,126,18.6,3.4,12025,40.88
+471,The Eternal Legend,1987,Documentary,Christopher Nolan,Scarlett Johansson|Jennifer Lawrence|Matt Damon|Cate Blanchett,77,19.3,4.3,49319,212.07
+472,Elena's Knight,1994,Action|Documentary|Thriller,Quentin Tarantino,Joaquin Phoenix|Ryan Gosling,110,8.7,2.8,8104,22.69
+473,Hollow Storm,2013,Comedy|Musical,Darren Aronofsky,Lupita Nyong'o|Tom Hanks|Emma Stone,184,281.8,4.2,31253,131.26
+474,Night of the Hidden Matrix,1978,Sci-Fi|Adventure,Denis Villeneuve,Charlize Theron|Joaquin Phoenix|Natalie Portman|Matt Damon,104,145.2,4.6,35483,163.22
+475,The Savage Shadow,1994,Comedy|Romance,Guillermo del Toro,Jennifer Lawrence|Cate Blanchett|Brad Pitt|Lupita Nyong'o,98,238.9,4.2,21860,91.81
+476,The Golden Dragon,2017,Musical,Greta Gerwig,Denzel Washington|Ryan Gosling,75,93.9,3.3,38720,127.78
+477,The Iron Shadow,1990,Thriller,Denis Villeneuve,Jennifer Lawrence|Joaquin Phoenix,112,180.8,4.1,9609,39.4
+478,Night of the Silent Phoenix,2002,Adventure|Crime|Romance,Spike Lee,Morgan Freeman|Jennifer Lawrence|Viola Davis,171,18.6,3.3,21882,72.21
+479,Soul of Valhalla,2019,Thriller,Darren Aronofsky,Ryan Gosling|Viola Davis|Natalie Portman|Leonardo DiCaprio,175,101.9,3.6,44476,160.11
+480,Night of the Frozen Angel,1990,Thriller|Sci-Fi|Action,Denis Villeneuve,Natalie Portman|Matt Damon|Brad Pitt,188,209.1,3.9,19126,74.59
+481,Night of the Dark Knight,2013,Drama,Bong Joon-ho,Natalie Portman|Meryl Streep|Cate Blanchett|Emma Stone,196,54.7,4.0,3488,13.95
+482,The Burning Dragon,1979,Romance|Drama|Comedy,Steven Spielberg,Scarlett Johansson|Ryan Gosling,200,91.5,4.2,39119,164.3
+483,Legend of Babylon,2022,Drama|Crime|Mystery,Alfonso Cuarón,Leonardo DiCaprio|Cate Blanchett|Matt Damon,96,37.5,3.5,42085,147.3
+484,The Infinite Legend,1995,Action|Drama|Horror,Coen Brothers,Jennifer Lawrence|Tom Hanks|Christian Bale|Cate Blanchett,128,289.7,3.3,7739,25.54
+485,World of Midnight,2021,Adventure|Action,James Cameron,Morgan Freeman|Natalie Portman|Tom Hanks|Robert De Niro,83,26.3,4.6,8223,37.83
+486,Heart of Eden,2007,Crime|Animation,Tim Burton,Tom Hanks|Charlize Theron|Robert De Niro,141,115.2,4.1,10753,44.09
+487,Night of the Hidden Oracle,2010,Crime|Mystery|Romance,David Fincher,Emma Stone|Matt Damon|Christian Bale|Natalie Portman,182,246.6,4.4,20782,91.44
+488,The Crimson Warrior,2013,Drama|Adventure|Documentary,Martin Scorsese,Denzel Washington|Robert De Niro|Brad Pitt,132,82.8,4.5,6469,29.11
+489,The Burning Knight,2005,Musical|Adventure,Steven Spielberg,Denzel Washington|Ryan Gosling,121,104.2,2.8,48631,136.17
+490,Night of the Phantom World,2021,Horror|Crime,Guillermo del Toro,Christian Bale|Scarlett Johansson|Viola Davis,97,284.3,4.4,26691,117.44
+491,The Forgotten Legend,1975,Crime|Horror|Fantasy,Christopher Nolan,Christian Bale|Brad Pitt|Jennifer Lawrence,202,155.0,3.8,44403,168.73
+492,Night of the Frozen Knight,2008,Animation|Mystery,Paul Thomas Anderson,Natalie Portman|Tom Hanks,168,252.0,4.7,33714,158.46
+493,Elena's Ghost,1980,Adventure|Documentary,Wes Anderson,Cate Blanchett|Viola Davis|Matt Damon|Jennifer Lawrence,150,80.2,3.5,196,0.69
+494,Night of the Ancient Angel,2011,Thriller|Action|Fantasy,Tim Burton,Meryl Streep|Emma Stone|Leonardo DiCaprio,192,99.2,5.0,23242,116.21
+495,The Dark Knight,1995,Action|Adventure,Bong Joon-ho,Morgan Freeman|Tom Hanks|Christian Bale,206,269.7,3.9,26966,105.17
+496,The Twisted Shadow,1984,Drama|Documentary,Denis Villeneuve,Tilda Swinton|Natalie Portman|Charlize Theron,143,33.5,3.5,28792,100.77
+497,Night of the Savage Shadow,1977,Crime,Steven Spielberg,Ryan Gosling|Tilda Swinton,159,270.4,4.3,10556,45.39
+498,The Savage Code,2021,Romance|Animation|Documentary,Jordan Peele,Ryan Gosling|Brad Pitt|Cate Blanchett|Charlize Theron,80,38.7,3.3,22602,74.59
+499,Night of the Broken Matrix,1982,Mystery|Western|Animation,Wes Anderson,Brad Pitt|Ryan Gosling,84,82.9,3.0,12644,37.93
+500,The Silent Angel,2014,Comedy|Western|Documentary,Bong Joon-ho,Meryl Streep|Christian Bale|Tilda Swinton,88,92.0,4.5,17695,79.63
