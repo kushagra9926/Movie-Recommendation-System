@@ -51,8 +51,8 @@ The “movies” and “ratings” are **synthetic** (generated code + CSVs in `
 **Option A — Git clone (if you use Git)**
 
 ```bash
-git clone <your-repo-url>
-cd movie_recommender
+git clone https://github.com/kushagra9926/Movie-Recommendation-System.git
+cd Movie-Recommendation-System
 ```
 
 Replace `<your-repo-url>` with your GitHub repository URL. The folder you `cd` into must contain `main.py` and `requirements.txt`.
